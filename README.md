@@ -48,3 +48,6 @@ docker-compose exec web python manage.py load_data
 
 Графическое представление доступно по адресу localhost
 
+Таблица доступна по адресу
+
+https://docs.google.com/spreadsheets/d/1fArmA72nxcQVv_gr31MHv4RV2e_n8j79-xvr6FOWDDc/edit#gid=0
