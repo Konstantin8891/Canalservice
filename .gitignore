@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+token.json
+
+ServiceEmail.txt
+
+sheet.ods
+
+start.py
+
